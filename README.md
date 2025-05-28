@@ -1,3 +1,9 @@
+# Pausa do Curso
+Pausei esse curso para fazer outro, continuar depois!!!
+[Curso](https://cursos.alura.com.br/course/react-gerenciando-estado-recoil)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
